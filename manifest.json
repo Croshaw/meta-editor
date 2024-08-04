@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Obsidian Sample Plugin",
+	"id": "meta-editor",
+	"name": "Meta Editor",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "",
